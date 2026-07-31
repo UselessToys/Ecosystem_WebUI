@@ -35,7 +35,7 @@ const nextConfig = {
   },
 
   // ✅ FIX: Don't bundle native Node.js addons
-  serverExternalPackages: ['onnxruntime-node', 'sharp'],
+  serverExternalPackages: ['sharp'],
 
   // 🚀 PERFORMANCE
   compress: true,
