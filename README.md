@@ -1,16 +1,18 @@
-# Ecosystem
+# Ecosystem Web UI
 
 ---
 
 | Python | License | Deploy | Quality |
 |---|---|---|---|
-| ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) | ![License](https://img.shields.io/badge/license-MIT-green.svg) | [![Deploy on VastAI](https://img.shields.io/badge/Deploy-VastAI-FF6B6B?style=for-the-badge&logo=nvidia)](https://cloud.vast.ai/?ref_id=70354&creator_id=70354&name=Ecosystem_WebUI) [![Deploy on RunPod](https://img.shields.io/badge/Deploy-RunPod-673AB7?style=for-the-badge&logo=runpod)](https://console.runpod.io/deploy?template=2kkfdbmlcc&ref=yx1lcptf) | [![DeepScan grade](https://deepscan.io/api/teams/29397/projects/31347/branches/1015145/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=29397&pid=31347&bid=1015145) |
+| ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) | ![License](https://img.shields.io/badge/license-MIT-green.svg) | [![Deploy on VastAI](https://img.shields.io/badge/Deploy-VastAI-FF6B6B?style=for-the-badge&logo=nvidia)](https://cloud.vast.ai?ref_id=671131&template_id=074d2b91b4fb61c5ae6963efca1fe1df) [![Deploy on RunPod](https://img.shields.io/badge/Deploy-RunPod-673AB7?style=for-the-badge&logo=runpod)](https://console.runpod.io/deploy?template=2kkfdbmlcc&ref=yx1lcptf) | [![DeepScan grade](https://deepscan.io/api/teams/29397/projects/31347/branches/1015145/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=29397&pid=31347&bid=1015145) |
 
 ---
 
 **Train, tag, and generate — a full LoRA & checkpoint training suite with ComfyUI built in.**
 
 A web interface built on Kohya SS. Prepare datasets, auto-tag, train across many model types (SDXL, Flux, SD3, Lumina, Anima…), then generate and test results in a bundled ComfyUI workspace.  
+
+ [![Rent a GPU with VastAI](https://img.shields.io/badge/Deploy-VastAI-FF6B6B?style=for-the-badge&logo=nvidia)](https://cloud.vast.ai/?ref_id=671131&creator_id=671131&name=Ecosystem%20WebUI%20-%20Lora%20Trainer%20%2F%20ComfyUI)
 
 ---
 
